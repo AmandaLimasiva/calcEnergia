@@ -63,5 +63,5 @@ elif energia == "3" or energia.lower() == "Elásica":
         print(f"A Energia Elástica é {Ee} Joules.")
 
 else:
-        print("Opção inválida!")
+        print("Opção inválida! Escolha entre as oferecidas.")
 
